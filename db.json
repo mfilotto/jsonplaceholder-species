@@ -26,6 +26,7 @@
       "species": ["url1"],
       "gender": "male",
       "url": "people1",
+      "id": "people1",
       "height": 45,
       "mass": 12,
       "films": ["filsm1","filsm2"],
