@@ -1,0 +1,21 @@
+{
+  "species": [
+    {
+      "name": "name1",
+      "classification": "classification1",
+      "designation": "designation1",
+      "average_height": 23,
+      "skin_colors": ["bleu","vert"],
+      "hair_colors": ["bleu","vert"],
+      "eye_colors": ["bleu","vert"],
+      "average_lifespan": 35,
+      "homeworld": "mars",
+      "language": "language1",
+      "people": ["people1","people2"],
+      "films": ["filsm1","filsm2"],
+      "created": "ee",
+      "edited": "false",
+      "url": "url1"
+    }
+  ]
+}
