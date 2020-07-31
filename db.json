@@ -11,11 +11,31 @@
       "average_lifespan": 35,
       "homeworld": "mars",
       "language": "language1",
-      "people": ["people1","people2"],
+      "people": ["people1"],
       "films": ["filsm1","filsm2"],
       "created": "ee",
       "edited": "false",
       "url": "url1"
     }
+  ],
+  "people": [
+    {
+      edited: "false",
+      "eye_colors": "bleu",
+      "skin_color": "vert",
+      "species": ["url1"]
+      "gender": "male",
+      "url": "people1",
+      "height": 45,
+      "mass": 12,
+      "films": ["filsm1","filsm2"],
+      "name": "name1",
+      "starships": ["starships1"],
+      "birth_year": "22222",
+      "created": "dd",
+      "hair_color": "bleu",
+      "homeworld": "mars",
+      "vehicles": ["LEM"]
+    }    
   ]
 }
