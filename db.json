@@ -20,10 +20,10 @@
   ],
   "people": [
     {
-      edited: "false",
+      "edited": "false",
       "eye_colors": "bleu",
       "skin_color": "vert",
-      "species": ["url1"]
+      "species": ["url1"],
       "gender": "male",
       "url": "people1",
       "height": 45,
